@@ -1,0 +1,11 @@
+path: C:\Users\Hamza\Desktop\Deep Learning\Annotations YOLO  # dataset root dir
+train: train\images  # train images (relative to 'path') 
+val: val\images  # val images (relative to 'path') 
+
+# Classes dictionary
+names:
+  0: Me
+  1: My friend
+
+
+
